@@ -34,6 +34,6 @@ Blog post : https://blog.csdn.net/nettravel_sh/article/details/83217201
 ## 5. Licensing, Author, Acknowledgements
  - I make this project to help people understand how to earn more as Airbnb host. If it is useful, I will be glad to hear from you! Feel free to use  this and mention me so I can take a look at your work.
 
- - Thanks for Kaggle's dataset.
+ - Thanks for Kaggle's dataset!
 
- - Thanks for Fangzhong Feng's idea.
+ - Thanks for idea of Fangzhong Feng and Agustinus Nurgoho!
