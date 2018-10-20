@@ -29,6 +29,8 @@ If an investor wants to invest in a house as an Airbnb host in Seattle, how will
 
 If we want to earn more as Airbnb host in Seattle, we should invest house or apartment in Downtown, Queen Anne and Cascade. And the houses or apartments has typical configuration with 2 accommodates,1 bathrooms	bedrooms, 1 beds.  In order to increase the occupancy rate, Incentives are needed to motivate customers to review the accommodation. We should provide more suitable amenities. But in order to save costs, some amenities that slightly affect the occupancy rate are removed, leaving only: Wireless Internet, Heating, Smoke Detector, Essentials and other basic amenities to reduce costs. When you do these jobs, you may get a higher income.
 
+Blog post : https://blog.csdn.net/nettravel_sh/article/details/83217201
+
 ## 5. Licensing, Author, Acknowledgements
  - I make this project to help people understand how to earn more as Airbnb host. If it is useful, I will be glad to hear from you! Feel free to use  this and mention me so I can take a look at your work.
 
